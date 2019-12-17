@@ -1,0 +1,3 @@
+add(){
+syso("print upto 10 numbers")
+}
